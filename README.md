@@ -1,7 +1,4 @@
 # PassGen
-Secure password generator, including characters, digits and punctuation, based on the character length specified by the user.
-
-##Secure Password Generator
 
 This is a simple Python script for generating secure, random passwords. It combines letters, numbers, and special characters to ensure strong password creation.
 
